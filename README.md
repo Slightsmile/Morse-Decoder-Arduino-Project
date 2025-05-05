@@ -46,6 +46,11 @@ This system captures button presses from an IR remote, interprets them as Morse 
 
 ---
 
+## 📷 Connection
+![Screenshot 2025-05-05 114521](https://github.com/user-attachments/assets/b6cb72a3-d6fb-4281-bf78-666b745765fd)
+
+---
+
 ## 🛠️ Implementation Steps
 
 1. **Connect Hardware**:
