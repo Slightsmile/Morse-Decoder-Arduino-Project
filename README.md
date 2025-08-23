@@ -77,12 +77,6 @@ This system captures button presses from an IR remote, interprets them as Morse 
 
 ---
 
-## 📄 Project Report
-
-For full technical details and performance results, see the [project report](IR-Based-Morse-Code-Sender.pdf).
-
----
-
 ## 📬 Authors
 
 - Project developed by a student team as part of a learning activity in Arduino-based security systems.
